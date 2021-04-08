@@ -1,2 +1,4 @@
 # SculptorTheReturn
-Second part of the Sculptor project
+# Integrantes:
+- Elisa Gabriela Machado de Lucena
+- Vinícius Soares Fernandes
